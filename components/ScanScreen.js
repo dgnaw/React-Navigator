@@ -1,5 +1,7 @@
 import React from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, ImageBackground, SafeAreaView, Image } from 'react-native';
+import { View, StyleSheet, TouchableOpacity, ImageBackground, Image } from 'react-native';
+import {SafeAreaView} from 'react-native-safe-area-context';
+
 
 export default function ScanScreen({ navigation }) {
   return (

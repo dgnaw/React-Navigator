@@ -4,5 +4,9 @@
 - Lớp : D18CNPM4
 
 **Kết quả bài tập:**
-![Kết quả bài tập](./assets/homescreen.jpg)
+![Kết quả bài tập](./assets/homeScreen.jpg)
 ![Kết quả bài tập](./assets/scanscreen.jpg)
+![Kết quả bài tập](./assets/paymentScreen0.jpg)
+![Kết quả bài tập](./assets/paymentScreen1.jpg)
+![Kết quả bài tập](./assets/successScreen.jpg)
+
