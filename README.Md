@@ -1,4 +1,4 @@
-# Kiểm tra 01: Di chuyển giữa các màn hình (Navigation)
+# Kiểm tra 01: Di chuyển giữa các màn hình (Navigation) và thực hành 16/03/2026
 - Họ và tên : Đỗ Gia Nam
 - Mã sinh viên : 23810310245
 - Lớp : D18CNPM4
