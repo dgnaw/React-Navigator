@@ -14,7 +14,6 @@ export default function HomeScreen({ navigation }) {
     <SafeAreaView style={styles.container}>
       <ScrollView showsVerticalScrollIndicator={false}>
         
-        {/* Header */}
         <View style={styles.header}>
           <View>
             <Text style={styles.greeting}>Hello 👋</Text>
@@ -28,9 +27,7 @@ export default function HomeScreen({ navigation }) {
 
         <Text style={styles.sectionTitle}>Your Insights</Text>
 
-        {/* Grid Menu */}
         <View style={styles.grid}>
-          {/* Nút này sẽ chuyển hướng sang Tab 'Scan' đã cấu hình ở App.js */}
           <TouchableOpacity 
             style={styles.card} 
             onPress={() => navigation.navigate('Scan')} 
@@ -67,7 +64,6 @@ export default function HomeScreen({ navigation }) {
           </TouchableOpacity>
         </View>
 
-        {/* Explore More Section */}
         <View style={styles.exploreHeader}>
           <Text style={styles.sectionTitle}>Explore More</Text>
           <TouchableOpacity>
@@ -102,7 +98,6 @@ export default function HomeScreen({ navigation }) {
           </View>
         </ScrollView>
 
-        {/* Đệm đáy để không bị Tab Bar đè */}
         <View style={{ height: 120 }} /> 
 
       </ScrollView>
